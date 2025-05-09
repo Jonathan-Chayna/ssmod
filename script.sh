@@ -4,7 +4,7 @@ apt install -y unzip
 # Install main ZIP file
 mkdir ssmod
 cd ssmod
-wget link.com/ssmod.zip
+wget https://github.com/Jonathan-Chayna/ssmod/raw/refs/heads/main/ssmod.zip
 unzip ssmod.zip
 
 # Shizuku setup
